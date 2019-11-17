@@ -2,7 +2,7 @@
 
 A JavaScript/web version of [SnakeAI](https://github.com/greerviau/SnakeAI) by greerviau
 
-Try it: http://thohag.github.io/SnakeAI/
+Try it: https://thohag.github.io/SnakeAI/
 
 This is a port from the original Processing source code to JavaScript/HTML.
 Some features like load/save and graphing have been left out.
