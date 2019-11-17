@@ -1,5 +1,5 @@
 import {settings} from "./SnakeAI.js";
-import Vector from "/Vector.js";
+import Vector from "./Vector.js";
 import renderer from "./Renderer.js";
 
 export default class Food {

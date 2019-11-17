@@ -1,6 +1,6 @@
 import {settings} from "./SnakeAI.js";
 import Food from "./Food.js";
-import Vector from "/Vector.js";
+import Vector from "./Vector.js";
 import NeuralNet from "./NeuralNet.js";
 import renderer from "./Renderer.js";
 
